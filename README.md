@@ -1,6 +1,6 @@
 # certificates
 
-Professional Tensorflow developer
+Professional Tensorflow developer \n
 NPTEL Data structures and algorithm
 Deep learning certificate by deeplearning.ai
 convolutional neural networks by deeplearning.ai
